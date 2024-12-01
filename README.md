@@ -8,6 +8,7 @@ This project was created as part of my school assignment submission.
 
 1. Clone the repository
 2. run the init.sql file in your database
-3. run python main.py
+4. run ```pip3 install -r requirements.txt```
+3. run ```python main.py```
 
 
